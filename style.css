@@ -47,7 +47,7 @@ img {
 /* HEADER  */
 #header {
     background-color: rgb(34, 4, 4);
-    min-height: 30rem;
+    min-height: 32rem;
 }
 
 /* NAVBAR START */
@@ -111,7 +111,7 @@ img {
 }
 
 .hero-image {
-    max-width: 25rem;
+    max-width: 20rem;
     box-shadow: 1px 1px 12px sandybrown;
 }
 

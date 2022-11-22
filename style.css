@@ -117,14 +117,12 @@ img {
 }
 
 #services {
-    /* background-color: rgb(242, 212, 186); */
     min-height: 22rem;
 }
 
 #services .header {
     font-size: 33px;
     font-weight: bolder;
-    color: #1F2937;
     text-align: center;
     padding: .9rem 0;
     color:rgb(34, 4, 4);
@@ -156,5 +154,41 @@ img {
 .box .text {
     text-align:left;
 }
+
+/* ABOUT SECTION STYLING */
+#about {
+    background-color: rgb(242, 212, 186);
+    height: 15rem;
+}
+
+#about .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1.2rem;
+    padding: 1.2rem;
+    height: 100%;
+    line-height: 1.7;
+    font-size: 1.1rem;
+    font-weight: 400;
+    color: rgb(30, 30, 30);
+}
+
+#about .qoute {
+    font-weight: 300;
+    font-style: italic;
+    font-size: 1.2rem;
+}
+
+#about .refrense {
+    align-self: flex-end;
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+
+
+
 
 

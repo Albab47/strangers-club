@@ -227,5 +227,14 @@ img {
     font-weight: 400;
 }
 
+/* FOOTER SECTION STYLING */
+#footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(34, 4, 4);
+    color: #fff;
+    height: 4rem;
+}
 
 
